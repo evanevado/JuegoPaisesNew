@@ -1,0 +1,54 @@
+﻿Angola: Luanda - Kwanza
+Argelia: Argel - Dinar argelino
+Benín: Porto-Novo - Franco CFA
+Botsuana: Gaborone - Pula
+Burkina Faso: Uagadugú - Franco CFA
+Burundi: Buyumbura - Franco de Burundi
+Cabo Verde: Praia - Escudo de Cabo Verde
+Camerún: Yaundé - Franco CFA
+Comores: Moroni - Franco de las Comores
+Congo: Brazzaville - Franco CFA
+Costa de Marfil: Yamusukro - Franco CFA
+Chad: N'Djamena o Yamena - Franco CFA
+Egipto: El Cairo - Libra egipcia
+Etiopía: Addis Abeba - Biir etiope
+Gabón: Libre Ville - Franco CFA
+Gambia: Banjul - Dalasi
+Ghana: Accra - Cedi
+Guinea: Conakry - Syli
+Guinea Bissau: Bissau - Peso de Guinea Bissau
+Guinea Ecuatorial: Malabo - Ekwele
+Kenia: Nairobi - Chelín keniata
+Lesoto: Maseru - Maloti-Rand
+Liberia: Monrovia - Dolar de Liberia
+Libia: Tripoli - Dinar Libio
+Madagascar: Antananarivo - Franco malgache
+Malaui: Lilongwe - Kwacha
+Malí: Bamako - Franco de Malí
+Marruecos: Rabat - Dirham marroquí
+Mauricio: Port Louis - Rupia de las Mauricio
+Mauritania: Nuakchott - Ouguiya
+Mozambique: Maputo - Metical
+Namibia: Windhoek - Rand
+Níger: Niamey - Franco CFA
+Nigeria: Abuya - Naira
+República Centroafricana: Bangui - Franco CFA
+República del Congo: Brazzaville - Franco CFA de África Central
+República Democrática del Congo: Kinshasa - Franco CFA
+República Democrática de Santo Tomé y Príncipe: Santo Tomé - Dobra
+República de Sudáfrica: Bloemfontein, Ciudad Del Cabo y Pretoria - Rand
+Ruanda: Kigali - Franco de Ruanda
+Senegal: Dakar - Franco CFA
+Seychelles: Victoria - Rupia de las Seychelles
+Sierra Leona: Freetown - Leone
+Somalia: Mogadiscio - Chelín Somalí
+Sudán: Jartum - Libra Sudanes
+Sudán del Sur: Yuba - Libra sursudanesa
+Suazilandia: Mbabane - Lilangeni
+Tanzania: Dodoma - Chelin Tanzano
+Togo: Lomé - Franco CFA
+Túnez: Túnez - Dinar tunecino
+Uganda: Kampala - Chelín de Uganda
+Yibuti o Djibouti: Yibuti - Franco de Djibouti
+Zambia: Lusaka - Kwacha
+Zimbabue: Harare - Dolar de Zimbabwe

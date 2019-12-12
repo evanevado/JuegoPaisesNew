@@ -1,0 +1,45 @@
+﻿Afganistán: Kabul - Afghani
+Arabia Saudita: Riad - Rial Saudi
+Bangladés: Dacca - Taka
+Baréin: Manama - Dinar Bahraini
+Birmania/Myanmar: Ranghún - Kyat de Myanmar
+Brunéi: Bandar seri Begawan - Dólar de Brunei
+Bután: Thimbu- Rupia hindú
+Camboya: Phnom-Pehn - Riel
+Catar: Doha - Rial Qatari
+China: Pekín - Yuan Renminbi
+Corea del Norte: Pyongyang - Won norcoreano
+Corea del Sur: Seúl - Won
+Emiratos Árabes Unidos: Abu Dhabi - Diram UAE
+Filipinas: Manila - Peso filipino
+Georgia: Tiflis - Lari
+India: Nueva Delhi - Rupia hindú
+Indonesia: Yakarta - Rupia
+Irak: Bagdad - Dinar Iraquí
+Irán: Teheran - Rial Iraní
+Israel: Tel Aviv - Shekel
+Japón: Tokio - Yen
+Jordania: Amman - Dinar jordano
+Kazajistán: Astaná - Tenge
+Kirguistán: Biskek - Som kirguís
+Kuwait: Kuwait - Dinar Kuwaití
+Laos: Vientiane - Kip
+Líbano: Beirut - Libra libanesa
+Malasia: Kuala Lumpur - Ringgit Malaysio
+Maldivas: Male - Rupia de las Maldivas
+Mongolia: Ulan Bator - Tugrik
+Nepal: Katmandú - Rupia nepali
+Omán: Mascate - Rial Omani
+Pakistán: Islamabad - Rupia Paquistani
+Rúsia: Moscú - Rublo ruso
+Singapur: Singapur - Dólar de Singapur
+Siria: Damasco - Libra Siria
+Sri Lanka: Colombo - Rupia de Sri Lanka
+Tailandia: Bangkok - Baht
+Tayikistán: Dusambé - Somoni
+Timor Oriental: Dili - Dólar estadounidense
+Turkmenistán: Asjabad - Manat turcomano
+Turquía: Ankara - Dong
+Uzbekistán: Taskent - Som uzbeko
+Vietnam: Hanoi - Dong
+Yemen: Sana'a - Rial de Yemen

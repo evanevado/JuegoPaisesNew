@@ -1,0 +1,50 @@
+﻿Albania: Tirana - Lek
+Alemania: Berlin - Euro (UE)
+Andorra: Andorra la Vieja - Euro
+Armenia: Ereván - Dram
+Austria: Viena - Euro (UE)
+Azerbaiyán: Bakú - Manat
+Bélgica: Bruselas - Euro (UE)
+Bielorrusia: Minsk - Rublo Bielorruso
+Bosnia y Herzegovina: Sarajevo - Marco Convertible
+Bulgaria: Sofía - Lev (UE)
+Ciudad del Vaticano: Vaticano - Euro
+Chipre: Nicosia - Libra de Chipre (UE)
+Croacia: Zagreb - Kuna (UE)
+Dinamarca: Copenhague - Corona Danesa (UE)
+Eslovaquia: Bratislava - Corona Eslovaca (UE)
+Eslovenia: Liubliana - Tolar (UE)
+España: Madrid - Euro (UE)
+Estonia: Tallin - Corona de Estonia (UE)
+Finlandia: Helsinki - Euro (UE)
+Francia: Paris - Euro (UE)
+Georgia: Tiflis - Lari
+Grecia: Atenas - Euro (UE)
+Hungría: Budapest - Forintio (UE)
+Irlanda: Dublin - Euro (UE)
+Islandia: Reikiavik - Corona islandesa
+Italia: Roma - Euro (UE)
+Kazajistán: Astaná - Tengue
+Letonia: Riga - Lat (UE)
+Liechtenstein: Vaduz - Franco Suizo
+Lituania: Vilna - Lit (UE)
+Luxemburgo: Luxemburgo - Euro (UE)
+Malta: La Valletta - Libra Maltesa (UE)
+Moldavia: Chisinau - Leu de Moldova
+Mónaco: Mónaco - Euro
+Montenegro: Podgorica - Euro
+Noruega: Oslo - Corona noruega
+Países Bajos: Ámsterdam - Euro (UE)
+Polonia: Varsovia - Zloty (UE)
+Portugal: Lisboa - Euro (UE)
+Reino Unido: Londres - Libra esterlina (UE)
+República Checa: Praga - Corona Checa (UE)
+República de Macedonia: Skopje - Dinar Macedonio
+Rumanía: Bucarest - Leu rumano (UE)
+Rúsia: Moscú - Rublo
+San Marino: San Marino - Euro
+Serbia: Belgrado - Dinar Serbio
+Suecia: Estocolmo - Corona sueca (UE)
+Suiza: Berna - Franco Suizo
+Turquía: Ankara - Dong
+Ucrania: Kiev - Grivna

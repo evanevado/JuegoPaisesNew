@@ -1,0 +1,20 @@
+﻿<Window x:Class="InterfazJuego.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterfazJuego"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="140.834" Width="310.833">
+    <Grid x:Name="ventanaJugadores" Margin="0,0,6,-3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Jugador:" HorizontalAlignment="Left" Margin="10,16,0,0" VerticalAlignment="Top"/>
+        <Label Content="Continente:&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_Jugador" HorizontalAlignment="Left" Height="23" Margin="96,19,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="197"/>
+        <ComboBox x:Name="cmb_Continentes" HorizontalAlignment="Left" Margin="96,50,0,0" VerticalAlignment="Top" Width="197"/>
+        <Button x:Name="btn_Jugar" Content="Jugar" HorizontalAlignment="Left" Height="23" Margin="218,83,0,-6" VerticalAlignment="Top" Width="75" Click="btn_Jugar_Click"/>
+
+    </Grid>
+</Window>

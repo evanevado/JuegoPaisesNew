@@ -1,0 +1,35 @@
+﻿Antigua y Barbuda: Saint John - Dólar del Caribe Este
+Argentina: Buenos Aires - Peso Argentino
+Bahamas: Nasáu - Dólar de las Bahamas
+Barbados: Bridgetown - Dólar de Barbados
+Belice: Belmopán - Dólar de Belice
+Bolivia: Sucre - Peso Boliviano
+Brasil: Brasilia - Real
+Canadá: Ottawa - Dólar de Canadá
+Chile: Santiago - Peso Chileno
+Colombia: Bogotá - Peso Colombiano
+Costa Rica: San José - Colón de Costa Rica
+Cuba: La Habana - Peso Cubano
+Dominica: Roseau - Dólar del Caribe Oriental
+Ecuador: Quito - Dólar USA
+El Salvador: San Salvador - Colón del Salvador
+Estados Unidos: Washington - Dólar USA
+Granada: Saint George - Dólar del Caribe Oriental
+Guatemala: Guatemala - Quetzal
+Guyana: Georgetown - Dólar de Guyana
+Haití: Puerto Príncipe - Gourde y Dólar USA
+Honduras: Tegucigalpa - Lempira
+Jamaica: Kingston - Dólar de Jamaica
+México: México - Peso mexicano
+Nicaragua: Managua - Córdoba
+Panamá: Panamá - Dolar USA y Balboa
+Paraguay: Asunción - Guaraní
+Perú: Lima - Sol
+República Dominicana: Santo Domingo - Peso Dominicano
+San Cristóbal y Nieves: Basseterre - Dólar del Caribe Oriental
+San Vicente y Granadinas: Kingstown - Dólar del Caribe Oriental
+Santa Lucía: Castries - Dólar del Caribe Oriental
+Surinam: Paramaribo - Florín de Surinam
+Trinidad y Tobago: Puerto España - Dólar de Trinidad y Tobago
+Uruguay: Montevideo - Peso Uruguayo
+Venezuela: Caracas - Bolívar
